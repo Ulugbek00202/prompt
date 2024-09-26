@@ -7,7 +7,6 @@ for (;;) {
 	}
 
 	if (user === 'stop') {
-		console.log("Tsikl to'xtatildi")
 		break
 	}
 
